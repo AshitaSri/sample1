@@ -9,7 +9,7 @@ function getDistance(x1, y1, x2, y2) {
 }
 
 function getMagn(x, y) {
-    return Math.sqrt(x * x + y * y);
+    return Math.sqrt(x * x + y * y);dsncbsdjhc
 }
 
 function toRadian(degrees) {
